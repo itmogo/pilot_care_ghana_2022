@@ -11465,6 +11465,7 @@ header.masthead h1, header.masthead .h1 {
 
 .reasonlist > ul > li{
   padding-bottom: 30px;
+  list-style: none;
 }
 
 .reasonlist > ul > li > b{
@@ -11504,3 +11505,14 @@ header.masthead h1, header.masthead .h1 {
 #myBtn:hover {
   background-color: rgb(253, 143, 17);
 }
+
+.reduce{
+  float:center; 
+  
+}
+   .nurse-text{     
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+} 
