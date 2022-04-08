@@ -11507,12 +11507,10 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .reduce{
-  float:center; 
-  
+  float:center;   
 }
    .nurse-text{     
      display: flex;
      align-items: center;
      justify-content: center;
-
 } 
