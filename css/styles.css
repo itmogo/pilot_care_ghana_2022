@@ -11509,8 +11509,9 @@ header.masthead h1, header.masthead .h1 {
 .reduce{
   float:center;   
 }
-   .nurse-text{     
+   .pcenter{     
      display: flex;
      align-items: center;
      justify-content: center;
+     font-size: x-large;
 } 
