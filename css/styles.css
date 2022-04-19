@@ -11515,3 +11515,14 @@ header.masthead h1, header.masthead .h1 {
      justify-content: center;
      font-size: x-large;
 } 
+
+.frame {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.contact{
+  margin: 0px;
+}
+.footer-map{
+  margin: 0px;
+}
