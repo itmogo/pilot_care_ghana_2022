@@ -11499,7 +11499,8 @@ header.masthead h1, header.masthead .h1 {
   color: white;
   cursor: pointer;
   padding: 10px;
-  border-radius: 4px;  
+  border-radius: 4px;
+  
 }
 
 #myBtn:hover {
